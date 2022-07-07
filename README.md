@@ -1,2 +1,2 @@
-# AptYonetimi
+# Apartman Yönetimi Uygulaması
 Apartman yönetimi uygulaması
